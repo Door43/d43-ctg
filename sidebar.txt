@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ctg:home|Door43 (ctg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ctg|d43-ctg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ctg/archive/master.zip|d43-ctg.zip]]
+
+**Recent Changes**
+{{changes>ns = ctg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ctg|Ethnologue data]]
+
